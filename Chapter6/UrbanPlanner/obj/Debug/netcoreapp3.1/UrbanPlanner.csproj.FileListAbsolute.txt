@@ -1,0 +1,11 @@
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.exe
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.deps.json
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.runtimeconfig.json
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.runtimeconfig.dev.json
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.dll
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\bin\Debug\netcoreapp3.1\UrbanPlanner.pdb
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.csprojAssemblyReference.cache
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.AssemblyInfoInputs.cache
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.AssemblyInfo.cs
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.dll
+E:\IT-242\Chapter6\UrbanPlanner\UrbanPlanner\obj\Debug\netcoreapp3.1\UrbanPlanner.pdb
